@@ -57,7 +57,36 @@ Once the term is added to the WCRP-Universe repository, proceed with the followi
 
 ---
 
-### **Final Step: Repeat for Each Collection & Required Terms**  
-Follow the above steps for all necessary collections and terms.  
+### **Repeat for Each Collection & Required Terms**  
+Follow the above steps for all necessary collections and terms. 
+
+
+#### institution_id 
+
+institution is a known datadescriptor in the universe. 
+##### Create context
+
+lets take the institution context and copy/paste it in a input4MIPs_institution_id directory  
+
+##### Create terms
+
+then, for each term, check if it exists in universe, if not : ask for it the be registered 
+
+for now those are missing : 
+CR not found in universe
+DRES not found in universe
+UCLA not found in universe
+uoexeter not found in universe
++ 
+CNRM-Cerfacs is CNRM-CERFACS in universe 
+
+lets put that aside for now 
+
+## esgvoc 
+
+
+
+
+
 
 That’s all, folks! 🚀
