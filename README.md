@@ -84,6 +84,9 @@ lets put that aside for now
 
 ## esgvoc 
 
+the idea is to define a new configuration with this repo as a new project (in version 3.0.0) the configuration is only available through code, lets create a script for that:
+
+
 
 
 
