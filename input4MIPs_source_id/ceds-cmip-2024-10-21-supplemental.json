@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ceds-cmip-2024-10-21-supplemental",
     "type": "source",
+    "drs_name": "ceds-cmip-2024-10-21-supplemental",
     "activity_id": "input4MIPs",
     "authors": [
         {
