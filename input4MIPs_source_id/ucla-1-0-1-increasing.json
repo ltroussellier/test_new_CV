@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "ucla-1-0-1-increasing",
-    "type": "source_id",
+    "type": "source",
     "activity_id": "input4MIPs",
     "authors": [
         {

@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "ceds-cmip-2025-03-18",
-    "type": "source_id",
+    "type": "source",
     "activity_id": "input4MIPs",
     "authors": [
         {

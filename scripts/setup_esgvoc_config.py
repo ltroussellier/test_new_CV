@@ -22,7 +22,7 @@ def setup_esgvoc_config(
     github_repo: str = "https://github.com/ltroussellier/test_new_CV",
     branch: str = "devel",
     local_path: str = "repos/test_new_CV",
-    db_path: str = "dbs/input4mips"
+    db_path: str = "dbs/input4mips.sqlite"
 ) -> None:
     """
     Set up ESGVOC configuration for the input4MIPs project.

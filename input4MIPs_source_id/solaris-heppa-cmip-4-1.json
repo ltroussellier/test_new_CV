@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "solaris-heppa-cmip-4-1",
-    "type": "source_id",
+    "type": "source",
     "activity_id": "input4MIPs",
     "authors": [
         {
