@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmosphericstate",
+    "type": "dataset_category",
+    "drs_name": "atmosphericstate"
+}

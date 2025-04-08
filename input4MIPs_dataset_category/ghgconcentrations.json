@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ghgconcentrations",
+    "type": "dataset_category",
+    "drs_name": "ghgconcentrations"
+}

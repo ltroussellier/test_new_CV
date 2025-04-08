@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "solar",
+    "type": "dataset_category",
+    "drs_name": "solar"
+}
