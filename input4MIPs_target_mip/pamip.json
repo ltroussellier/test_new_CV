@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pamip",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Polar Amplification Model Intercomparison Project",
+    "mip_era": "cmip6",
+    "drs_name": "pamip"
+}

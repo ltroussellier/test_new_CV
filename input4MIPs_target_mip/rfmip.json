@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rfmip",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Radiative Forcing Model Intercomparison Project",
+    "mip_era": "cmip6",
+    "drs_name": "rfmip"
+}

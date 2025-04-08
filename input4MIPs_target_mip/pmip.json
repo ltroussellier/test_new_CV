@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pmip",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Palaeoclimate Modelling Intercomparison Project",
+    "mip_era": "cmip6",
+    "drs_name": "pmip"
+}

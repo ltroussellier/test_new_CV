@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cfmip",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Cloud Feedback Model Intercomparison Project",
+    "mip_era": "cmip6",
+    "drs_name": "cfmip"
+}

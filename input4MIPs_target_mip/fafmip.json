@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fafmip",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Flux-Anomaly-Forced Model Intercomparison Project",
+    "mip_era": "cmip6",
+    "drs_name": "fafmip"
+}

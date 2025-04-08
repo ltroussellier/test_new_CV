@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cordex",
+    "type": "target_mip",
+    "URL": "www.tbd.invalid",
+    "full_name": "Coordinated Regional Climate Downscaling Experiment",
+    "mip_era": "cmip6",
+    "drs_name": "cordex"
+}

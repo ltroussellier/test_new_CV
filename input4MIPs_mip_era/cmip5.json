@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip5",
+    "type": "mip_era",
+    "drs_name": "cmip5"
+}
