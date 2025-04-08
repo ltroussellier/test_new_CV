@@ -56,7 +56,7 @@ def convert() -> None:
                     "URL": mip_info.get("URL"),
                     "full_name": mip_info.get("full_name"),
                     "mip_era": mip_era.lower(),
-                    "drs_name": term_id,
+                    "drs_name": mip_id,
                 }
 
                 # Write term file
