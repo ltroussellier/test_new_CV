@@ -98,7 +98,33 @@ here we have added those one in realm (for example purposes, but seems OK for no
 when this is done, we can then create terms here witch are only link to those in univere realm 
 
 
-#### 
+#### license 
+this is also an interesting one
+this one is pretty easy, there is already the term "CC BY 4.0" in the universe, therefore we just have to create a collection input4MIPs_license with a term in json file that point to universe term. 
+but, there is a key, value that is not the same in the universe "conditions", we will add it here. 
+
+#### mip_era 
+
+this one exists in universe and all input4MIPs terms are all present, lets use them 
+
+#### product 
+
+this one exists in universe, it only misses "reanalyses", ==> issue in universe. Then we can create input4MIPs terms
+
+#### publication status
+this one is interesting as well ! 
+it doesnt exist in universe, and nothing that already exist have the same meaning  ==> issues on universe in order to add this new datadesciptors and terms  
+Then we will create those term 
+
+#### target_mip
+this one is also intersting 
+the collection in input4MIPs is called target_mip but there the "activity" datadescriptor in universe that seems do be exactly what it described. But this a nested dict with "mip_era" as key for the first level. this kind of link is not CV (cf CV-TaskTeam work). what we can do is specified the "mip_era" in each terms here but the activity is picked from universe. 
+in addition, there is no "prototype" term in activity in universe ==> issues in universe
+
+
+### Esgvoc
+the basic access to input4MIPs CV is now possible
+lets try the DRS app with all this new defined CV !
 
 
 

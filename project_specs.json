@@ -7,27 +7,27 @@
             "separator": "/",
             "parts": [
                 {
-                    "collection_id": "activity_id",
+                    "collection_id": "input4MIPs_activity_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "mip_era",
+                    "collection_id": "input4MIPs_mip_era",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "target_mip",
+                    "collection_id": "input4MIPs_target_mip",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "institution_id",
+                    "collection_id": "input4MIPs_institution_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "source_id",
+                    "collection_id": "input4MIPs_source_id",
                     "is_required": true,
                     "kind": "collection"
                 },
