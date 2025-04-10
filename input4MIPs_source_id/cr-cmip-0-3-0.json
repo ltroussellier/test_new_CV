@@ -2,7 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "cr-cmip-0-3-0",
     "type": "source",
-    "drs_name": "cr-cmip-0-3-0",
     "activity_id": "input4MIPs",
     "authors": [
         {

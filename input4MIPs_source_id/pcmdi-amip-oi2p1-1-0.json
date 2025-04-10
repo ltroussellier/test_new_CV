@@ -2,7 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "pcmdi-amip-oi2p1-1-0",
     "type": "source",
-    "drs_name": "pcmdi-amip-oi2p1-1-0",
     "activity_id": "input4MIPs",
     "authors": [
         {
