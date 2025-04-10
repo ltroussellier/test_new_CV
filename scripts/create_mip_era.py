@@ -35,7 +35,7 @@ def convert() -> None:
             eras = json.load(f)
 
         # Create context file
-        create_context_file(collection_name, collection_name)
+        create_context_file(collection_name, "mip_era")
 
         # Create term files for each MIP era
         for era in eras:
@@ -47,7 +47,6 @@ def convert() -> None:
                 "@context": "000_context.jsonld",
                 "id": term_id,
                 "type": "mip_era",
-                "drs_name": term_id,  # for esgvoc
             }
 
             # Write term file
