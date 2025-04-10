@@ -35,7 +35,7 @@ def convert() -> None:
             categories = json.load(f)
 
         # Create context file
-        create_context_file(collection_name, collection_name)
+        create_context_file(collection_name, "realm")
 
         # Create term files
         for category in categories:
@@ -46,7 +46,7 @@ def convert() -> None:
             term_data = {
                 "@context": "000_context.jsonld",
                 "id": term_id,
-                "type": "dataset_category",
+                "type": "realm",
                 "drs_name": term_id,  # for esgvoc
             }
 

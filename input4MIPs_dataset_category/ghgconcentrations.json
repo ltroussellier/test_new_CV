@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "ghgconcentrations",
-    "type": "dataset_category",
+    "type": "realm",
     "drs_name": "ghgconcentrations"
 }

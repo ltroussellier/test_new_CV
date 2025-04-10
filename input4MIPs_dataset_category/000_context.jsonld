@@ -1,6 +1,6 @@
 {
     "@context": {
-        "@base": "https://espri-mod.github.io/mip-cmor-tables/dataset_category/",
+        "@base": "https://espri-mod.github.io/mip-cmor-tables/realm/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type": "@type"

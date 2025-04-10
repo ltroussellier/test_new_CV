@@ -80,15 +80,25 @@ uoexeter not found in universe
 + 
 CNRM-Cerfacs is CNRM-CERFACS in universe 
 
-lets put that aside for now 
 
-## esgvoc 
+#### source_id 
+this one is interesting ! 
 
-the idea is to define a new configuration with this repo as a new project (in version 3.0.0) the configuration is only available through code, lets create a script for that:
+this collection is exactly the same as the datadescriptor source in the universe. 
+BUT not every term here are part of the universe. Go to issues in universe to add it 
+and then the term in this repo, in this collection will be a link to these future one. 
+
+#### dataset_category
+
+this one is interesting too ! 
+this collection does not have an equivalent in the universe. But looking at existaing one, it seems that it could be the same meaning as "realm". so the idea is to add these term in universe in realm ? go to issues in universe to add it. Or even ask if realm is the good datadescriptor to put those term in 
+
+here we have added those one in realm (for example purposes, but seems OK for now)  
+
+when this is done, we can then create terms here witch are only link to those in univere realm 
 
 
-
-
+#### 
 
 
 
