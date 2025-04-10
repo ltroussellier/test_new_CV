@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "prototype",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "MIP identity to capture all prototype datasets collected for uncertainty exploration - not for CMIP production use",
-    "mip_era": "cmip6plus",
-    "drs_name": "Prototype"
+    "type": "activity",
+    "mip_era": "cmip6plus"
 }

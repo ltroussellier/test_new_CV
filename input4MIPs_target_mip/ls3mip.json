@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "ls3mip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Land Surface, Snow and Soil Moisture",
-    "mip_era": "cmip6",
-    "drs_name": "LS3MIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

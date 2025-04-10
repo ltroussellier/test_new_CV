@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "c4mip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Coupled Climate Carbon Cycle Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "C4MIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "gmmip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Global Monsoons Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "GMMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

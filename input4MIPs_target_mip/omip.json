@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "omip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Ocean Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "OMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

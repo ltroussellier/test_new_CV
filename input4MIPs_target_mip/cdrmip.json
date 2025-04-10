@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "cdrmip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Carbon Dioxide Removal Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "CDRMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

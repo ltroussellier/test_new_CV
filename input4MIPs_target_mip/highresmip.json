@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "highresmip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "High-Resolution Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "HighResMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "ismip6",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Ice Sheet Model Intercomparison Project for CMIP6",
-    "mip_era": "cmip6",
-    "drs_name": "ISMIP6"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "damip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Detection and Attribution Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "DAMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "dcpp",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Decadal Climate Prediction Project",
-    "mip_era": "cmip6",
-    "drs_name": "DCPP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

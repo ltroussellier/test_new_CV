@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "viacsab",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Vulnerability, Impacts, Adaptation and Climate Services Advisory Board",
-    "mip_era": "cmip6",
-    "drs_name": "VIACSAB"
+    "type": "activity",
+    "mip_era": "cmip6"
 }

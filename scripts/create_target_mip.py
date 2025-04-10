@@ -40,7 +40,7 @@ def convert() -> None:
             "full_name": "https://schema.org/name",
             "mip_era": "https://espri-mod.github.io/mip-cmor-tables/mip_era",
         }
-        create_context_file(collection_name, collection_name, properties)
+        create_context_file(collection_name, "activity", properties)
 
         # Process each MIP era and its MIPs
         for mip_era, mips in source_data.items():
@@ -52,11 +52,8 @@ def convert() -> None:
                 term_data = {
                     "@context": "000_context.jsonld",
                     "id": term_id,
-                    "type": "target_mip",
-                    "URL": mip_info.get("URL"),
-                    "full_name": mip_info.get("full_name"),
+                    "type": "activity",
                     "mip_era": mip_era.lower(),
-                    "drs_name": mip_id,
                 }
 
                 # Write term file

@@ -1,9 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "scenariomip",
-    "type": "target_mip",
-    "URL": "www.tbd.invalid",
-    "full_name": "Scenario Model Intercomparison Project",
-    "mip_era": "cmip6",
-    "drs_name": "ScenarioMIP"
+    "type": "activity",
+    "mip_era": "cmip6"
 }
