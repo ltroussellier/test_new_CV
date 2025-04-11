@@ -68,37 +68,37 @@
             "parts": [
                 {
                     "collection_id": "input4MIPs_variable_id",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_activity_id",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_dataset_category",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_target_mip",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_source_id",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_grid_label",
-                    "id_required": true,
+                    "is_required": true,
                     "kind": "collection"
                 },
                 {
                     "collection_id": "input4MIPs_time_range",
-                    "id_required": false,
+                    "is_required": false,
                     "kind": "collection"
                 }
             ]
