@@ -7,59 +7,59 @@
             "separator": "/",
             "parts": [
                 {
-                    "collection_id": "input4MIPs_activity_id",
+                    "collection": "input4MIPs_activity_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "input4MIPs_mip_era",
+                    "collection": "input4MIPs_mip_era",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "input4MIPs_target_mip",
+                    "collection": "input4MIPs_target_mip",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "input4MIPs_institution_id",
+                    "collection": "input4MIPs_institution_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "input4MIPs_source_id",
+                    "collection": "input4MIPs_source_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "realm",
+                    "collection": "realm",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "frequency",
+                    "collection": "frequency",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "variable_id",
+                    "collection": "variable_id",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "grid_label",
+                    "collection": "grid_label",
                     "is_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "version",
+                    "collection": "version",
                     "is_required": true,
                     "kind": "collection"
                 }
             ]
         },
         {
-            "type": "filename",
+            "type": "file_name",
             "separator": "_",
             "properties": {
                 "extension": "nc",
@@ -67,37 +67,37 @@
             },
             "parts": [
                 {
-                    "collection_id": "variable_id",
+                    "collection": "variable_id",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "activity_id",
+                    "collection": "activity_id",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "dataset_category",
+                    "collection": "dataset_category",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "target_mip",
+                    "collection": "target_mip",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "source_id",
+                    "collection": "source_id",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "grid_label",
+                    "collection": "grid_label",
                     "id_required": true,
                     "kind": "collection"
                 },
                 {
-                    "collection_id": "time_range",
+                    "collection": "time_range",
                     "id_required": false,
                     "kind": "collection"
                 }
