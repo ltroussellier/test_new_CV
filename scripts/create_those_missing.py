@@ -15,12 +15,12 @@ import esgvoc.api as ea
 from scripts.create_context_file import create_context_file
 
 wanted_DDs_collection = {
-    "realm": "input4MIPs_realm",
-    "frequency": "input4MIPs_frequency",
-    "variable": "input4MIPs_variable_id",
-    "grid": "input4MIPs_grid_label",
-    "directory_date": "input4MIPs_version",
-    "time_range": "input4MIPs_time_range",
+    "realm": "realm",
+    "frequency": "frequency",
+    "variable": "variable_id",
+    "grid": "grid_label",
+    "directory_date": "version",
+    "time_range": "time_range",
 }
 
 # Setup logging
