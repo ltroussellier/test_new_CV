@@ -59,7 +59,7 @@
             ]
         },
         {
-            "type": "filename",
+            "type": "file_name",
             "separator": "_",
             "properties": {
                 "extension": "nc",
