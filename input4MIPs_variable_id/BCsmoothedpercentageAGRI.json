@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "BCsmoothedpercentageAGRI",
+    "type": "variable"
+}

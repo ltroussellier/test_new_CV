@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "SO2_em_SOLID_BIOFUEL_anthro",
+    "type": "variable"
+}
