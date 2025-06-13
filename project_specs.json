@@ -78,7 +78,7 @@
                 },
                 {
                     "collection_id": "input4MIPs_dataset_category",
-                    "is_required": true,
+                    "is_required": false,
                     "kind": "collection"
                 },
                 {
