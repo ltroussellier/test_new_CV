@@ -13,7 +13,9 @@ scripts/create_product.py
 scripts/create_publication_status.py
 scripts/create_source_id.py
 scripts/create_target_mip.py
+scripts/create_those_missing.py
 scripts/create_tracking_id.py
+scripts/create_variable_id.py
 scripts/esgvoc_config.py
 scripts/fetch_cv_files.py
 scripts/setup_esgvoc_config.py
