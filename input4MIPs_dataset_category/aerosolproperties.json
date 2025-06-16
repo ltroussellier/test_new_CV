@@ -2,5 +2,5 @@
     "@context": "000_context.jsonld",
     "id": "aerosolproperties",
     "type": "realm",
-    "drs_name": "aerosolproperties"
+    "drs_name": "aerosolProperties"
 }

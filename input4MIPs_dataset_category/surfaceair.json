@@ -2,5 +2,5 @@
     "@context": "000_context.jsonld",
     "id": "surfaceair",
     "type": "realm",
-    "drs_name": "surfaceair"
+    "drs_name": "surfaceAir"
 }

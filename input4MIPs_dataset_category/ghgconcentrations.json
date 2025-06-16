@@ -2,5 +2,5 @@
     "@context": "000_context.jsonld",
     "id": "ghgconcentrations",
     "type": "realm",
-    "drs_name": "ghgconcentrations"
+    "drs_name": "GHGConcentrations"
 }
