@@ -74,3 +74,6 @@ if __name__ == "__main__":
         ids = [term.id for term in terms]
 
         convert(dd, col, ids)
+    # terms = ea.get_all_terms_in_data_descriptor("realm", [])
+    # ids = [term.id for term in terms]
+    # convert("realm", "realm", ids)
