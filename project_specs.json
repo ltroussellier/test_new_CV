@@ -237,10 +237,6 @@
         "source_collection": "source_version",
         "value_type": "string"
       },
-      "table_id": {
-        "source_collection": "table_id",
-        "value_type": "string"
-      },
       "target_mip": {
         "source_collection": "target_mip",
         "value_type": "string"
