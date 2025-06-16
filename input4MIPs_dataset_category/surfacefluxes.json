@@ -1,6 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "surfacefluxes",
-    "type": "realm",
-    "drs_name": "surfaceFluxes"
+    "type": "realm"
 }

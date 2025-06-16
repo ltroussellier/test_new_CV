@@ -47,7 +47,6 @@ def convert() -> None:
                 "@context": "000_context.jsonld",
                 "id": term_id,
                 "type": "realm",
-                "drs_name": category,  # for esgvoc
             }
 
             # Write term file

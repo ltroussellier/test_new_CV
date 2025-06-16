@@ -1,6 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "emissions",
-    "type": "realm",
-    "drs_name": "emissions"
+    "type": "realm"
 }
