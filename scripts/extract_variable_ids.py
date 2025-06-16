@@ -23,11 +23,11 @@ def create_variable_json_files(variable_ids, output_dir):
     for var_id in variable_ids:
         json_content = {
             "@context": "000_context.jsonld",
-            "id": var_id,
+            "id": var_id.lower(),
             "type": "variable",
         }
 
-        filename = f"{var_id}.json"
+        filename = f"{var_id.lower()}.json"
         filepath = os.path.join(output_dir, filename)
 
         with open(filepath, "w") as f:
